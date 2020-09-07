@@ -282,6 +282,7 @@ span:hover {
   position: fixed;
   background: gray;
   z-index: 1;
+  opacity: 0;
   font-size: 30px; }
 
 .flecha a {
